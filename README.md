@@ -8,10 +8,12 @@ I am deeply interested in the field of cybersecurity and am passionate about tac
 
 # Skills
 Languages: Python, Java, C, C++, HTML/CSS, JavaScript
+
 Technical Tools: Splunk, Chronicle, Wireshark
 
 # Certifications
 Google Cybersecurity Certificate
+
 CompTIA Security+ Certificate (In Progress)
 
 # Education
