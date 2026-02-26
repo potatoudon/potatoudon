@@ -18,5 +18,6 @@ CompTIA Security+ Certificate (In Progress)
 
 # Education
 Boston University
+
 B.A. in Computer Science 
 
